@@ -1,0 +1,1 @@
+export const API_URL = "http://' + window.$backendDNS + '/api/image/";

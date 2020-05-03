@@ -1,1 +1,2 @@
-let's deploy this badboi on heroku
+# Capstone
+CSCE 482 sr capstone design
